@@ -27,6 +27,8 @@ app.use(notFoundMiddleware);
 app.use(errorHandlerMiddleware);
 ```
 
+If a request is made to a route with no router or middleware associated, express would return:
+
 ```JSON
 { 
   "error": { 
