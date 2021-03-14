@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/valverdealbo/not-found-middleware/compare/v1.0.2...v1.0.3) (2021-03-14)
+
+
+### Bug Fixes
+
+* upgrade @valbo/http-errors from 1.0.2 to 1.0.3 ([75cc6a2](https://github.com/valverdealbo/not-found-middleware/commit/75cc6a226e0f373ca301726115ae17b57eacd274))
+
 ## [1.0.2](https://github.com/valverdealbo/not-found-middleware/compare/v1.0.1...v1.0.2) (2021-02-19)
 
 
