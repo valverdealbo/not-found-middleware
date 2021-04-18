@@ -1,12 +1,12 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { NotFoundError } from '@valbo/http-errors';
-import { notFoundMiddleware } from '.';
+import { notFoundMiddleware } from '../src';
 
 const request = { method: 'POST', url: '/login' };
 const response = {};
 const next = jest.fn();
 
-describe('#notFoundMiddleware()', () => {
+describe('notFoundMiddleware()', () => {
   test('should next() a not found error', () => {
     next.mockClear();
     notFoundMiddleware(request as any, response as any, next);
