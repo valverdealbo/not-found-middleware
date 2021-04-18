@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/valverdealbo/not-found-middleware/compare/v1.0.4...v1.0.5) (2021-04-18)
+
+
+### Bug Fixes
+
+* update dependencies ([f49cc7e](https://github.com/valverdealbo/not-found-middleware/commit/f49cc7eabdb6ceeaeb4298674a680b1b4bafa4a6))
+
 ## [1.0.4](https://github.com/valverdealbo/not-found-middleware/compare/v1.0.3...v1.0.4) (2021-04-18)
 
 
