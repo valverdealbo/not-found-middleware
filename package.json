@@ -1,6 +1,6 @@
 {
   "name": "@valbo/not-found-middleware",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Express middleware that throws a not found error",
   "keywords": [
     "express",
