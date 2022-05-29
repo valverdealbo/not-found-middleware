@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "@types/express": "4.x",
-    "@valbo/http-errors": "1.0.4"
+    "@valbo/http-errors": "1.1.0"
   },
   "scripts": {
     "build": "rimraf ./dist && tsc",
